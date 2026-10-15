@@ -1,7 +1,9 @@
 # Proiectarea Bazelor de Date – Magazin Online de Componente și Periferice PC
 
-**Student:** Babaș Mihai Sebastian  
+**Student:** Babaș Mihai Sebastian
+
 **Specializarea:** Calculatoare, Anul III
+
 **An universitar:** 2026 – 2027  
 
 ---
