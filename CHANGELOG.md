@@ -1,4 +1,3 @@
-```markdown
 # Changelog – Evolutia pe Saptamani
 
 Toate modificările importante aduse proiectului sunt documentate in acest fișier!
