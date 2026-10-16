@@ -14,7 +14,6 @@ Acest depozit conține proiectul semestrial realizat în cadrul disciplinei **Pr
 ### Probleme rezolvate:
 - **Gestiunea strictă a stocurilor și prevenirea *overselling*-ului** prin constrângeri de integritate și declanșatori (*triggers*).
 - **Evidența structurată a catalogului hardware** (procesoare, plăci de bază, plăci video, memorii RAM, stocare SSD/HDD, surse, carcase, monitoare și periferice), a furnizorilor, brandurilor și perioadelor de garanție.
-- **Trasabilitatea financiară a comenzilor** prin înghețarea prețului unitar și a discountului la momentul achiziției în tabelul asociativ de detalii comandă.
 - **Analiză predictivă prin Machine Learning:** extragerea indicatorilor de achiziție printr-un *View* SQL dedicat, antrenarea unui model cu `scikit-learn` / `pandas` și salvarea predicțiilor înapoi în SGBD.
 
 ---
