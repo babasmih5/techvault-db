@@ -1,13 +1,13 @@
-# Changelog – Evolutia pe Saptamani
+# Changelog – Evoluția pe Săptămâni
 
-Toate modificările importante aduse proiectului sunt documentate in acest fișier!
+Toate modificările importante aduse proiectului sunt documentate în acest fișier!
 
-## Saptamana 1 
-### Adaugat
-- Initializarea depozitului Git si configurarea `.gitignore` pentru Python/SQL/Word.
-- Redactarea `README.md` cu descrierea domeniului (Magazin Online de Componente și Periferice PC) si arhitectura proiectului.
-- Crearea structurii de directoare conform cerintelor (`docs/`, `db/`, `app/`, `teste/`).
-- Initializarea documentatiei Word cu Pagina de Titlu, Scopul proiectului si Obiectivele sistemului.
+## Săptămâna 1 
+### Adăugat
+- Inițializarea depozitului Git și configurarea `.gitignore` pentru Python/SQL/Word.
+- Redactarea `README.md` cu descrierea domeniului (Magazin Online de Componente și Periferice PC) și arhitectura proiectului.
+- Crearea structurii de directoare conform cerințelor (`docs/`, `db/`, `app/`, `teste/`).
+- Inițializarea documentației Word cu Pagina de Titlu, Scopul proiectului și Obiectivele sistemului.
 
 ## Săptămâna 2 (Analiza cerințelor și Modelul Conceptual ER)
 ### Adăugat
