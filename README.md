@@ -54,5 +54,6 @@ Pentru proiectarea bazei de date a magazinului de componente și periferice PC, 
 
 ### 3.2. Modelul ER
 
-<img width="2022" height="1381" alt="Fotografie" src="https://github.com/user-attachments/assets/93ecaa5a-9d46-434d-85b0-56418683d8d3" />
+<img width="2022" height="1381" alt="ModelER" src="https://github.com/user-attachments/assets/7ab1c824-b920-42f4-831c-d3ae0616b885" />
+
 
