@@ -22,7 +22,6 @@ Acest depozit conține proiectul realizat la disciplina **Proiectarea Bazelor de
 ```text
 techvault/
 ├── README.md
-├── CHANGELOG.md
 ├── .gitignore
 ├── docs/
 ├── techvault-db/
