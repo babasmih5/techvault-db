@@ -4,3 +4,4 @@
 4. Se asteapta o idee cu functionalitati si tehnologii ale aplicatiei finale, care trebuie de asemenea prezentata la final.
 
 1. Diagrama functionala si nonfunctionala, alea de la proiectare software.
+2. Diagrama de stare.
